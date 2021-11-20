@@ -28,4 +28,4 @@
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=B=\begin{pmatrix}&space;1&space;&&space;3&space;&&space;6\\&space;10&space;&&space;15&space;&&space;21\\&space;28&space;&&space;36&space;&&space;45&space;\end{pmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?B=\begin{pmatrix}&space;1&space;&&space;3&space;&&space;6\\&space;10&space;&&space;15&space;&&space;21\\&space;28&space;&&space;36&space;&&space;45&space;\end{pmatrix}" title="B=\begin{pmatrix} 1 & 3 & 6\\ 10 & 15 & 21\\ 28 & 36 & 45 \end{pmatrix}" /></a>
 
-Как можно заметить, первый элемент матрицы B равен первому элементу матрицы А, т.е. одному, второй элемент первому элементу + второму элементу матрицы А (1+2=3) и т.д.
+Как можно заметить, первый элемент матрицы B равен первому элементу матрицы А, т.е. одному, второй элемент матрицы B = первому элементу + второму элементу матрицы А (1+2=3), третий элемент матрицы B = первому + второму + третьему элементу матрицы А и т.д.
