@@ -12,4 +12,4 @@
 
 Условие задачи №1:
 
-![alt text](Algoritms_Ranepa/task_1.png)
+![alt text](task_1.png)
